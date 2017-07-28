@@ -1,0 +1,102 @@
+h1#first-name {
+    float: left;
+}
+
+ul#contact-info {
+    list-style: none;
+    float: right;
+}
+
+div#vitals {
+    height: 80px;
+    border-bottom: 2px black solid;
+}
+
+div {
+    border: 0.05px red dotted;
+}
+
+section {
+    margin: 3px;
+}
+
+section#work {
+    float: left;
+    width: 70%;
+    background-color: lightgrey;
+}
+
+section#objective {
+    float: right;
+    width: 28%;
+    border: 1px red dotted;
+    position: relative;
+    background-color: lightgray;
+}
+
+section#education {
+    float: right;
+    width: 28%;
+    border: 1px red dotted;
+    position: relative;
+    background-color: lightgray;
+}
+
+section#charity {
+    float: left;
+    width: 100%;
+}
+
+section#skills {
+    float: right;
+    width: 28%;
+    border: 1px red dotted;
+    position: relative;
+    background-color: lightgray;
+}
+
+section#charity {
+    background-color: lightgray;
+}
+
+.year {
+    float: left;
+    margin: 10px;
+    padding: 8px;
+}
+
+.place {
+    width: 90%;
+}
+
+.achievements {
+    float: right;
+    text-align: justify;
+    font-weight: 100;
+    font-size: 1em;
+    margin: auto;
+}
+
+.organization {
+    float: left;
+    font-weight: 500;
+    font-size: 1em;
+    margin-bottom: 0px;
+    color: blueviolet;
+}
+
+.job-title {
+    /* padding-left: 20px; */
+    font-weight: 500;
+    font-size: 1em;
+}
+
+article {
+    margin: auto 0px;
+    float: right;
+    width: 94%;
+}
+
+.panel-header {
+    border-bottom: 2px black solid;
+}
